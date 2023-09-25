@@ -10,4 +10,3 @@ I develop this game by using the basics of Unity soon after I graduated. So it m
 If you die when you get both of the arrows in Authm level, you won't able to do double-jump since the arrows aren't reset.
 
 Sometimes the camera is unstable if you spam crouch, sadly.
-türkçe yazdığın için ingilizceye direk devrik cümle çevirmesi zor o yüzden toparladık az
